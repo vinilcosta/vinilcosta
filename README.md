@@ -1,7 +1,7 @@
-## Olá! Eu sou Marcos Vinicius Leite Costa
+## Hi! I am Marcos Vinicius Leite Costa
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🔭 I'm software developer
+- 🌱 Studying React
 
 
 <div style="display: inline_block"><br>
